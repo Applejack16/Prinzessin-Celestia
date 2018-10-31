@@ -1,12 +1,13 @@
 {
- "name": "Prinzessin Celestia",
- "version": "1.0.0",
- "description": "Mein erster Discord Bot",
- "main": "bot.js",
- "scripts": {
-   "start": "node bot.js"
- },
- "keywords": [],
- "author": "Kirari Trommel, jojjebros Minecraft",
- "license": "ISC"
+  "name": "Prinzessin Celestia",
+  "version": "1.0.0",
+  "description": "Mein erster Discord Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "author": "Kirari Trommel, jojjebros Minecraft",
+    "license": "ISC"
+  }
 }
